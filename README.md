@@ -2,13 +2,13 @@
 <br>
 Estudos sobre python
 
-#Python Brasil
+# Python Brasil
 <br>
 https://wiki.python.org.br/PythonBrasil
 <br>
 http://comoprogramar.wikidot.com/codigos-dos-exercicios-de-estrutura-sequencial-p
 <br>
-#Django Girls
+# Django Girls
 <br>
 https://tutorial.djangogirls.org/pt/python_introduction/
 <br>
